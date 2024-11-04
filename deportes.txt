@@ -125,3 +125,17 @@
 *.pirlotvhd.ws
 *.pirlotv.fr
 *.pirlotvenhd.online
+*.pirlotves.net
+*.pirlotvdh.me
+*.rojadirectatv.pe
+*.rojadirectaenvivohd.org
+*.futbollibrehd.cl
+*.pirlodeportes.com
+*.pirlotvhd.pl
+*.rojadirectahd.pe
+*.rojadirectaenvivo.re
+*.tiroalpalo.org.es
+*.deets.feedreader.com
+*.pirlotvhd.pl
+*.watchsports.sbs
+
