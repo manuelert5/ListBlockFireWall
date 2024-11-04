@@ -138,4 +138,4 @@
 *.deets.feedreader.com
 *.pirlotvhd.pl
 *.watchsports.sbs
-
+*.wolf-stream-tv.blogspot.com
