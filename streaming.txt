@@ -89,3 +89,21 @@
 
 #sooplive
 my.sooplive.co.kr
+
+#crackle
+*.crackle.com
+
+#plex
+*.plex.tv
+
+#vudu
+*.vudu.com
+
+#tv.apple.com
+*.tv.apple.com
+
+#filmin
+*.filmin.es
+
+#rakuten
+*.rakuten.tv
