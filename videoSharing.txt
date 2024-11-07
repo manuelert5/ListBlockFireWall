@@ -74,4 +74,7 @@
 *.2embed.eu
 *.slmp.cn
 *.slmp.eu
-
+*.cdn-jupiter.com
+*.streamwish.to
+*.fastbrisk.com
+*.my.mail.ru
