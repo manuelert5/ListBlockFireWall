@@ -2,6 +2,7 @@
 *.slmp.sh
 *.filemoon.org
 *.vidhideapi.com
+*.vidhidevip.com
 *.lulunafak.com
 *.juststream.fit
 *.uploadnow.io
@@ -78,3 +79,10 @@
 *.streamwish.to
 *.fastbrisk.com
 *.my.mail.ru
+*.flaswish.com
+*.mixdrop.ps
+*.api.video
+*.cdn.jkdesu.com
+*.netu.tv
+*.netu.ac
+
