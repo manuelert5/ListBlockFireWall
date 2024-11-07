@@ -85,4 +85,14 @@
 *.cdn.jkdesu.com
 *.netu.tv
 *.netu.ac
-
+*.streamwish.top
+*.filelions.top
+*.lulustream.com
+*.hexload.com
+*.netuplayer.top
+*.gamovideo.com
+*.krakenfiles.com
+*.saidochesto.top
+*.burstcloud.co
+*.yourupload.com
+*.drive.filen.io
