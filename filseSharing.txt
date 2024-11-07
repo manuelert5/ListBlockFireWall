@@ -203,3 +203,4 @@
 *.Subyshare.com 
 *.tezfiles.com
 *.uploadboy.com
+*.multiup.io
