@@ -204,3 +204,5 @@
 *.tezfiles.com
 *.uploadboy.com
 *.multiup.io
+*.terabox.app
+*.drive.filen.io
