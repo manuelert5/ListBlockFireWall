@@ -116,3 +116,6 @@ my.sooplive.co.kr
 
 #vix
 *.vix.com
+
+#eitb
+*.eitb.eus
