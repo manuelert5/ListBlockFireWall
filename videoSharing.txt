@@ -104,3 +104,4 @@
 *.doodstream.com.tr
 *.dood.ws
 *.doodstream.com
+*.fastream.to
