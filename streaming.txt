@@ -113,3 +113,6 @@ my.sooplive.co.kr
 
 #rtvcplay
 *.rtvcplay.co
+
+#vix
+*.vix.com
