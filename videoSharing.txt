@@ -107,3 +107,4 @@
 *.fastream.to
 *.vidhide.com
 *.vidhidefast.com
+*.hqq.tv
