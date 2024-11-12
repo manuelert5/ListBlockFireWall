@@ -96,3 +96,4 @@
 *.burstcloud.co
 *.yourupload.com
 *.drive.filen.io
+*.luluvdo.com
