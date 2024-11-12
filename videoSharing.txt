@@ -102,3 +102,4 @@
 *.supervideo.cc
 *.verhdlink.cam
 *.doodstream.com.tr
+*.dood.ws
