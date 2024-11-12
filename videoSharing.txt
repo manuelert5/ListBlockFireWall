@@ -106,3 +106,4 @@
 *.doodstream.com
 *.fastream.to
 *.vidhide.com
+*.vidhidefast.com
