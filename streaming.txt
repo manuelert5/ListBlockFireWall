@@ -110,3 +110,6 @@ my.sooplive.co.kr
 
 #Showtime
 *.skyshowtime.com
+
+#rtvcplay
+*.rtvcplay.co
