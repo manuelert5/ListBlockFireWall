@@ -103,3 +103,4 @@
 *.verhdlink.cam
 *.doodstream.com.tr
 *.dood.ws
+*.doodstream.com
