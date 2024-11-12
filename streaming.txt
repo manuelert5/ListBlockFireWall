@@ -107,3 +107,6 @@ my.sooplive.co.kr
 
 #rakuten
 *.rakuten.tv
+
+#Showtime
+*.skyshowtime.com
