@@ -98,3 +98,6 @@
 *.drive.filen.io
 *.luluvdo.com
 *.jkdesu.com
+*.dropload.io
+*.supervideo.cc
+*.verhdlink.cam
