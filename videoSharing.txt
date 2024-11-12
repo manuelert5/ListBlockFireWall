@@ -97,3 +97,4 @@
 *.yourupload.com
 *.drive.filen.io
 *.luluvdo.com
+*.jkdesu.com
