@@ -101,3 +101,4 @@
 *.dropload.io
 *.supervideo.cc
 *.verhdlink.cam
+*.doodstream.com.tr
