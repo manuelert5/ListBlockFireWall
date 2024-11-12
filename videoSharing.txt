@@ -105,3 +105,4 @@
 *.dood.ws
 *.doodstream.com
 *.fastream.to
+*.vidhide.com
