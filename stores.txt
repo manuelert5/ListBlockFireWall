@@ -72,3 +72,11 @@
 *.filehippo.com
 *.download.cnet.com
 
+#AndroidTiendaOficial
+*.play-fe.googleapis.com
+*.play.googleapis.com
+*.play.google.com
+
+#AppleStore
+*.aaplimg.com
+*.apps.apple.com
