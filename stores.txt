@@ -20,6 +20,9 @@
 *.luckypatchers.com
 *.skidrowrepacks.com
 *.apkpure.com
+*.aptoide.com
+*.f-droid.org
+*.apkcombo.com
 
 #ios
 *.julio.hackyouriphone.org
@@ -58,3 +61,14 @@
 *.vuze.com
 *.deluge-torrent.org
 *.qbittorrent.org
+
+#PC
+*.softonic.com
+*.softpedia.com
+*.uptodown.com
+*.sourceforge.net
+*.portableapps.com
+*.fosshub.com
+*.filehippo.com
+*.download.cnet.com
+
