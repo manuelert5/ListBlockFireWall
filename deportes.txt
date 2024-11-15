@@ -1,4 +1,3 @@
-#deportes
 *.viprow.nu
 *.platform.soccerstreams100.io
 *.sportsbay.sx
@@ -94,7 +93,6 @@
 *.pelotalibre.pe
 *.pelotalibres.pe
 *.pelotalibretv.pl
-*.librefutbol.su
 *.deporte-libre.top
 *.futbollibrego.com
 *.futbollibretv.tv
@@ -209,7 +207,6 @@
 *.1tvplay.ge
 *.selogel.com
 *.onegoalh.futbolandres.xyz
-*.la12hd.com
 *.sportsonline.gl
 *.v5.sportsonline.si
 *.257p1587h9veejg.dynamicsupply.net
@@ -251,3 +248,22 @@
 *.qazsporttv.kz
 *.supertipz.online
 *.shazysport.pro
+*.zungiwhaigaunsi.net
+*.streamcaster.live
+*.hoca4u.xyz
+*.hoca2.com
+*.hoca2.xyz
+*.directatvhd.me
+*.arvigorothan.com
+*.alwaysdomain01.online
+*.pirlotvonline.nl
+*.embed.sdfgnksbounce.com
+*.sdfgnksbounce.com
+*.en-vivo.pro
+*.moupa.goluh.credit
+*.goluh.credit
+*.cdn15.youcando.rest
+*.youcando.rest
+*.voucoapoo.com
+*.deportesfutgol.com
+*.golazohd.com
