@@ -140,6 +140,9 @@ shared.fastly.steamstatic.com
 #xbox live
 *.xbox.com
 *.xboxlive.xom
+*.gamepass.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
 
 #origin
 *.origin.com
