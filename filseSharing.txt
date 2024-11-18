@@ -206,3 +206,4 @@
 *.multiup.io
 *.terabox.app
 *.drive.filen.io
+*.fireload.com
