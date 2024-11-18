@@ -207,3 +207,4 @@
 *.terabox.app
 *.drive.filen.io
 *.fireload.com
+*.megacloud.tv
