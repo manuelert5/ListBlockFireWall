@@ -127,16 +127,17 @@ my.sooplive.co.kr
 *.brightcove.com
 
 #uscreen
-uscreen.tv
+*.uscreen.tv
+cdn.uscreen.tv.
 
 #jwplayer
 *.jwplayer.com
 
 #dacast
-dacast.com
+*.dacast.com
 
 #peacocktv
-peacocktv.com
+*.peacocktv.com
 
 #peertube.org
 *.joinpeertube.org
