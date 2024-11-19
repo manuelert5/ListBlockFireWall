@@ -27,6 +27,7 @@
 *.zealy.io
 *.mia.cuevana3.vip
 *.streamcomplet.monster
+*.q62.xyz
 
 #SitiosLinksDescarga
 *.megapeliculasrip.net
