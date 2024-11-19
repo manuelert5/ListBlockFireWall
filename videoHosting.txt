@@ -108,3 +108,4 @@
 *.vidhide.com
 *.vidhidefast.com
 *.hqq.tv
+*.rapid-cloud.co
