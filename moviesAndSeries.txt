@@ -28,6 +28,7 @@
 *.mia.cuevana3.vip
 *.streamcomplet.monster
 *.q62.xyz
+*.vidcloud.lat
 
 #SitiosLinksDescarga
 *.megapeliculasrip.net
