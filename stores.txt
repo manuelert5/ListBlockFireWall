@@ -79,3 +79,7 @@
 #AppleStore
 *.aaplimg.com
 *.apps.apple.com
+
+#ChromeWebStore
+*.chromewebstore.google.com
+
