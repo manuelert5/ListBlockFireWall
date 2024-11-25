@@ -116,3 +116,16 @@ s7mbrstream.scene7.com
 *.setupvpn.com
 *.twisted.run
 *.scene7.com
+
+#AquaFreeVPN
+list.aquafreevpn.com
+ocsp.digicert.com
+*.aquafreevpn.com
+
+#Ultrasurfing
+*.ultrasurgin.com
+video.adpushup.com
+tempnextstat.bcovery.com
+ap.lijit.com
+intouchapp.online
+ex.ingage.tech
