@@ -129,3 +129,25 @@ tempnextstat.bcovery.com
 ap.lijit.com
 intouchapp.online
 ex.ingage.tech
+
+#Surfshark
+ext.surfshark.com
+*.surfshark.com
+
+#Blaze VPN
+api.nucleusvpn.com
+ifconfig.me
+*.nucleusvpn.com
+
+#NordVPN
+downloads.nordcdn.com
+applytics.napps-2.com
+*.nordcdn.com
+
+#HostPotShield
+api.hsselite.com
+*.hsselite.com
+
+#SweetVPN
+proxies.sweet-vpn.com
+*.sweet-vpn.com
