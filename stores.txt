@@ -83,3 +83,17 @@
 #ChromeWebStore
 *.chromewebstore.google.com
 
+#OperaStore
+*.addons.opera.com
+
+#EdgeStore
+*.microsoftedge.microsoft.com
+
+#Brave
+*.brave.com
+
+#FireFox Addons
+*.addons.mozilla.org
+
+#Maxthon Store
+*.webstore.maxthon.com
