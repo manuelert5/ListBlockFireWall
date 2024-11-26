@@ -43,6 +43,7 @@ cdn.translations.troywell.org
 proxy-api.troywell.org
 ext.troywell.org
 cdn.translations.savematic.com
+zagent1626.kbz0pwvxmv.com
 *.savematic.com
 *.troywell.org
 
@@ -116,6 +117,7 @@ s7mbrstream.scene7.com
 *.setupvpn.com
 *.twisted.run
 *.scene7.com
+*.approval.fun
 
 #AquaFreeVPN
 list.aquafreevpn.com
@@ -151,3 +153,10 @@ api.hsselite.com
 #SweetVPN
 proxies.sweet-vpn.com
 *.sweet-vpn.com
+
+#BetterVPN
+1.default2024.uk
+event.shelljacket.us
+icax.pointed.cc
+1.6912044.cc
+1.awakened.work
