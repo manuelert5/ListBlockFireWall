@@ -151,3 +151,26 @@ cdn.uscreen.tv.
 
 #mirrativ
 *.mirrativ.com
+
+#magis
+qzstnm.bv6fc3de.com
+*.bv6fc3de.com
+ulogs.umengcloud.com
+*.umengcloud.com
+mbee.oihsasd1ds.com
+yzabcdef.3rj3dvc2b.com
+*.3rj3dvc2b.com
+mad.lgaiwmc1d.com
+*.lgaiwmc1d.com
+mpg.yjda1lddfs.com
+*.yjda1lddfs.com
+yzabcdef.3rj3dvc2b.com
+*.3rj3dvc2b.com
+pu.lf21lgh.xyz
+*.lf21lgh.xyz
+zmupg.mdasf1ladh.com
+*.mdasf1ladh.com
+mno.lgaiwmc1d.com
+*.lgaiwmc1d.com
+magistv-pc.com
+*.magistv-pc.com
