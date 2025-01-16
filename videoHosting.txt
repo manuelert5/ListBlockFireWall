@@ -109,3 +109,4 @@
 *.vidhidefast.com
 *.hqq.tv
 *.rapid-cloud.co
+*.netuplayer.top
