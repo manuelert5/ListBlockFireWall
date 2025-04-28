@@ -267,3 +267,9 @@
 *.voucoapoo.com
 *.deportesfutgol.com
 *.golazohd.com
+*.futbollibreonline.org
+*.futbollibre-tv.com
+*.zonamovil.net
+*.futbollibre.mx
+*.pirlotv.pl
+*.pirlo.tv
