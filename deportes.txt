@@ -292,3 +292,4 @@
 *.tupelotalibre.com
 *.fútbollibre.su
 *.futbollibrelibre.com
+*.vivozly.com
