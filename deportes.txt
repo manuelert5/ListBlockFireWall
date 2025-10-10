@@ -291,3 +291,4 @@
 *.pelotalibre.org.pe
 *.tupelotalibre.com
 *.fútbollibre.su
+*.futbollibrelibre.com
