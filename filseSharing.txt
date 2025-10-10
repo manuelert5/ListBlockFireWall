@@ -26,12 +26,12 @@
 *.fileserve.com
 *.filefactory.com
 *.filefactory.info
-*.wetransfer.com
+#*.wetransfer.com
 *.streamable.com
 *.easyupload.io
 *.4shared.com
 *.sendspace.com
-*.transfernow.net
+#*.transfernow.net
 *.filetransfer.io
 *.getshared.com
 *.douploads.net
@@ -177,7 +177,6 @@
 *.securesafe.com
 *.sharefile.com
 *.tresorit.com
-*.wetransfer.com
 *.yandex.com
 *.terabox.com
 *.FileBoom.me
