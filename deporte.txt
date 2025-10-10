@@ -293,3 +293,4 @@
 *.fútbollibre.su
 *.futbollibrelibre.com
 *.vivozly.com
+*.librefutboltv.su
