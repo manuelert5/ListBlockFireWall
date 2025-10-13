@@ -304,3 +304,6 @@
 *.rrojadirecta.com
 *.roja-directa.my
 *.rojadirecta.com.im
+*.pelotalibreonline.pe
+*.pelotalibre.me
+*.pirlotven.cc
