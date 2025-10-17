@@ -156,7 +156,6 @@
 *.zevera.com
 *.baidu.com
 *.resilio.com
-*.adobe.com
 *.crypt.ee
 *.box.com
 *.dropmyemail.com
