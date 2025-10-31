@@ -385,3 +385,10 @@
 *.futbolslibre-tv.co
 *.futbollibre.li
 *.vives.futbol
+*.pirlotv.com.im
+*.fútbollibre.su
+*.futbollibrex.net
+*.futbollibre.li
+*.rojadirectatv.com.co
+*.roja-directa-tv.com
+*.pirlotv.io
