@@ -392,3 +392,5 @@
 *.rojadirectatv.com.co
 *.roja-directa-tv.com
 *.pirlotv.io
+*.rojadirecta.co.com
+*.pirlotv.forum
