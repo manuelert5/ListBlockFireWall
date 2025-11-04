@@ -394,3 +394,8 @@
 *.pirlotv.io
 *.rojadirecta.co.com
 *.pirlotv.forum
+*.elitegol.lol
+*.elitegol.nl
+*.pelotaa-libre.com
+*.streamzs1.xyz
+*.pelotalibre.my
