@@ -399,3 +399,14 @@
 *.pelotaa-libre.com
 *.streamzs1.xyz
 *.pelotalibre.my
+*.tarjetarojatvonline.com
+*.linkotes.com
+*.freefootball.ws
+*.bwin.es
+*.sopcast.org
+*.sodaplayer.com
+*.prabh-njt.com
+*.justin.tv
+*.tvonlinelimbo.com
+*.latelete.tv
+*.footballstreaming.info
