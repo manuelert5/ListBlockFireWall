@@ -418,3 +418,10 @@
 *.futboltv.info
 *.rojadirectatv.co.in
 *.rojdirecta.cam
+*.futbollibrewatch.com
+*.verfutbol.es
+*.livestreaming.football
+*.futbolenvivomexico.com
+*.thefutbollibre.net
+*.footballliberal.org
+*.futbollibretyc.com
