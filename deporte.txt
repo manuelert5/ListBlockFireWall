@@ -425,3 +425,4 @@
 *.thefutbollibre.net
 *.footballliberal.org
 *.futbollibretyc.com
+*.verfutbol.info
