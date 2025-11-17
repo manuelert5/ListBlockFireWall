@@ -426,3 +426,7 @@
 *.footballliberal.org
 *.futbollibretyc.com
 *.verfutbol.info
+*.verpirlotv.me
+*.verpirlotv.cc
+*.verpirlotv.com
+*.librefutboltvs.su
