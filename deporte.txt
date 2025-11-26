@@ -430,3 +430,5 @@
 *.verpirlotv.cc
 *.verpirlotv.com
 *.librefutboltvs.su
+*.golazotvhd.com
+*.golazoz.com
