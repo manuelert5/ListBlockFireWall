@@ -441,3 +441,13 @@
 *.pirlotv.center
 *.pirlotv.cv
 *.pirlotvhd.cc
+*.teleonline.org
+*.rtvelivestream.rtve.es
+*.ztnr.rtve.es
+*.movistarplus.es
+*.tv.garden
+*.teledirecto.es
+*.5900.tv
+*.mediasetinfinity.es
+*.tvgo.americatv.com.pe
+*.cxtvenvivo.com
