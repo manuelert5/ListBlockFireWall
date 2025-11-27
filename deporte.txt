@@ -432,3 +432,12 @@
 *.librefutboltvs.su
 *.golazotvhd.com
 *.golazoz.com
+*.tvplusgratis2.com
+*.tvporinternet2.com
+*.deportes.ksdjugfsddeports.com
+*.linktre.online
+*.cablevisionhd.com
+*.pirlotvhd.onl
+*.pirlotv.center
+*.pirlotv.cv
+*..pirlotvhd.cc
