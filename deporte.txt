@@ -440,4 +440,4 @@
 *.pirlotvhd.onl
 *.pirlotv.center
 *.pirlotv.cv
-*..pirlotvhd.cc
+*.pirlotvhd.cc
