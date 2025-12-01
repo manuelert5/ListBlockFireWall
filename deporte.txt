@@ -451,3 +451,14 @@
 *.mediasetinfinity.es
 *.tvgo.americatv.com.pe
 *.cxtvenvivo.com
+*.dots.bestleague.world
+*.welivesports.shop
+*.rereyano.ru
+*.bolaloca.my
+*.tvlibree.com
+*.elcanaldeportivo.com
+*.guatemalaplus.com
+*.tvlibrehd.online
+*.gatotv.com
+*.pelota-libre.net
+*.envivolibre.com
