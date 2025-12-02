@@ -463,3 +463,11 @@
 *.gatotv.com
 *.pelota-libre.net
 *.envivolibre.com
+*.pelotalibregol.pe
+*.pelota-libre.org
+*.pelotalibrehd.org
+*.pelotalibree.com
+*.pelotalibretv.lat
+*.pelotalibre.life
+*.pelotalibre.cc
+*.librepelota.online
