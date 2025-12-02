@@ -458,6 +458,7 @@
 *.tvlibree.com
 *.elcanaldeportivo.com
 *.guatemalaplus.com
+*.futbolparapobres.com
 *.tvlibrehd.online
 *.gatotv.com
 *.pelota-libre.net
