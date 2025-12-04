@@ -97,3 +97,6 @@
 
 #Maxthon Store
 *.webstore.maxthon.com
+
+#Samsung
+samsungapps.com
