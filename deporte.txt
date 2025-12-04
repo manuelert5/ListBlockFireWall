@@ -490,3 +490,9 @@
 *.rojadirecta.cc
 *.rojadirectaenhd.de
 *.librepelotatv.pe
+*.pirlotv2.re
+*.rojadirecta.re
+*.streamvv33.lat
+*.pirlotv2.org
+*.bvtpk.com
+*.capo6play.com
