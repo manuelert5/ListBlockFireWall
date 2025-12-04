@@ -189,3 +189,8 @@ ad.doubleclick.net
 ypn-js.overture.com
 googleads.g.doubleclick.net
 googletagmanager.com
+
+
+#clash of clans
+clashofclans.com
+supercell.com
