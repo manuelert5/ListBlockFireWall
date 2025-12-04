@@ -189,8 +189,11 @@ ad.doubleclick.net
 ypn-js.overture.com
 googleads.g.doubleclick.net
 googletagmanager.com
-
+gameswhitelisted.googleapis.com
 
 #clash of clans
-clashofclans.com
-supercell.com
+*.clashofclans.com
+*.supercell.com
+
+#Genshing impact
+*.hoyoverse.com
