@@ -496,3 +496,8 @@
 *.pirlotv2.org
 *.bvtpk.com
 *.capo6play.com
+*.streamtpcloud.com
+*.sportzonline.top
+*.runginfect.net
+*.pirlotv.today
+*.hqsport.plus
