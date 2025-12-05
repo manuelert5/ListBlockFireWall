@@ -110,3 +110,5 @@
 *.hqq.tv
 *.rapid-cloud.co
 *.netuplayer.top
+*.auvexiug.com
+*.xenolyzb.com
