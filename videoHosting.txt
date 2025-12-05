@@ -112,3 +112,4 @@
 *.netuplayer.top
 *.auvexiug.com
 *.xenolyzb.com
+*.56.com
