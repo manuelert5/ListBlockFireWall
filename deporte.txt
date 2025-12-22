@@ -509,3 +509,5 @@
 *.pelotalibrehdtv.live
 *.capoplay.net
 *.pelotalibre1.pe
+*.rojadirectatv.it.com
+*.futbolplay.net
