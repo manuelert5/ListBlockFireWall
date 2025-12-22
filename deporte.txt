@@ -501,3 +501,11 @@
 *.runginfect.net
 *.pirlotv.today
 *.hqsport.plus
+*.librefutbol.pe
+*.futbollibre.net.pe
+*.futbollibre2.com
+*.librefutboltv.com
+*.pelota-libre.mx
+*.pelotalibrehdtv.live
+*.capoplay.net
+*.pelotalibre1.pe
