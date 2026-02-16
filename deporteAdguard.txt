@@ -413,7 +413,7 @@
 ||rojadirectatv.global^
 ||pirlotvapk.com^
 ||pirlotv.mom^
-*pirlotvhd-0tv.s3^
+||pirlotvhd-0tv.s3^
 ||pirlo-tv.online^
 ||futboltv.info^
 ||rojadirectatv.co.in^
